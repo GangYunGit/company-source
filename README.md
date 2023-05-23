@@ -255,6 +255,40 @@
 
 ## 📁 디렉토리 구조 📁
 
+**Frontend**
+```html
+└─src
+    ├─components
+    │  ├─community
+    │  │  └─search
+    │  ├─comparison
+    │  ├─detail
+    │  ├─home
+    │  └─landing
+    ├─hooks
+    ├─lib
+    ├─models
+    ├─pages
+    │  ├─community
+    │  │  ├─corpboard
+    │  │  │  ├─detail
+    │  │  │  └─recommend
+    │  │  └─freeboard
+    │  │      ├─detail
+    │  │      └─recommend
+    │  ├─comparison
+    │  │  └─[corpA]
+    │  ├─detail
+    │  └─search
+    ├─stores
+    │  ├─comparison
+    │  └─info
+    ├─styles
+    └─utils
+        ├─commnuity
+        └─user
+```
+
 **Backend**
 ```html
 └─src
