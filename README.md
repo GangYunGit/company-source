@@ -191,7 +191,7 @@
 - react-redux `8.0.5`
 - reduxjs/toolkit `1.9.5`
 - nookies `2.5.2`
-- chart.js `4.3.0`
+- recharts `2.5.0`
 - mui/material `5.13.0`
 - gtga.js `0.0.12`
 
